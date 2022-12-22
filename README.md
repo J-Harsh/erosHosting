@@ -7,24 +7,22 @@ You can find the front-end code here:https://github.com/J-Harsh/eros-frontend
 This is a youtube clone built in order to allow sign-in/out functionality along with letting users upload their own video. 
 Some other functionalities inclide:
 <br/>
-
-Liking/Disliking the video<br/>
-
-Commenting<br/>
-
-Subscribing/Unsubsciribg 
-Categorization
-Recommendations
-Searching
+Liking/Disliking the video <br/>
+Commenting <br/>
+Subscribe/Unsubsciribe <br/>
+Categorization <br/>
+Recommendations <br/>
+Searching <br/>
+Sharing of video on social websites <br/>
 
 Technologies used:
-MongoDb (A no sql database)
-Express.js
-Node.js
-React.js
-Firebase
-Toastify
-JWT
+MongoDb (A no sql database) <br/>
+Express.js <br/>
+Node.js <br/>
+React.js<br/>
+Firebase <br/>
+Toastify <br/>
+JWT  <br/>
 
 Here is link to the hosted website feel free to check it out:https://videoshare.cyclic.app/
 
