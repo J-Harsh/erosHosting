@@ -1,8 +1,8 @@
 # erosHosting
 
 The purpose of this repository is to host the app on cyclic and therefore lacks the entirety of react code. 
-You can find the backend code here:
-You can find the front-end code here:
+You can find the backend code here:https://github.com/J-Harsh/eros-backend
+You can find the front-end code here:https://github.com/J-Harsh/eros-frontend
 
 This is a youtube clone built in order to allow sign-in/out functionality along with letting users upload their own video. 
 Some other functionalities inclide:
