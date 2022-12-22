@@ -6,8 +6,12 @@ You can find the front-end code here:https://github.com/J-Harsh/eros-frontend
 
 This is a youtube clone built in order to allow sign-in/out functionality along with letting users upload their own video. 
 Some other functionalities inclide:
-Liking/Disliking the video
-Commenting
+<br/>
+
+Liking/Disliking the video<br/>
+
+Commenting<br/>
+
 Subscribing/Unsubsciribg 
 Categorization
 Recommendations
