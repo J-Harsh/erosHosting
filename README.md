@@ -23,6 +23,8 @@ React.js<br/>
 Firebase <br/>
 Toastify <br/>
 JWT  <br/>
+Styled-components <br/>
+React-share <br/>
 
 Here is the link to the hosted website feel free to check it out:https://videoshare.cyclic.app/
 
