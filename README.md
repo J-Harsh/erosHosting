@@ -26,7 +26,7 @@ JWT  <br/>
 Styled-components <br/>
 React-share <br/>
 
-Here is the link to the hosted website feel free to check it out:https://videoshare.cyclic.app/
+Here is the link to the hosted website feel free to check it out: https://eroshosting.onrender.com
 
 
 Things still to be improved upon: <br/>
